@@ -8,6 +8,7 @@
 
     <Alert v-if="alertActive" :message="messageAlert" />
 
+    <!-- test git -->
     <!-- Cart -->
     <MyModal
       v-if="cartActive"
